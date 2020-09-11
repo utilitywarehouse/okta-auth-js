@@ -1,4 +1,4 @@
-# custom-login sample
+# self-hosted-widget-cdn sample
 
 By default the app server runs at `http://localhost:8080`. The callback redirect URI is `http://localhost:8080/implicit/callback`
 
