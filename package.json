@@ -129,6 +129,6 @@
     "test/app",
     "test/e2e",
     "test/support",
-    "samples"
+    "samples/*"
   ]
 }
